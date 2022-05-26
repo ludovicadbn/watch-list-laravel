@@ -10,9 +10,9 @@
 
   <header>
     <nav>
-      <a href="{{ route('home') }}"></a>
-      <a href="{{ route('modifylist') }}"></a>
-      <a href="{{ route('random') }}"></a>
+      <a href="{{ route('home') }}">Home</a>
+      <a href="{{ route('modifylist') }}">Modify</a>
+      <a href="{{ route('random') }}">Random pick</a>
     </nav>
   </header>
   
